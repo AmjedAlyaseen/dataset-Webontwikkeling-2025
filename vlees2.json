@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ANIMAL-001",
+    "species": "Rund",
+    "latinName": "Bos taurus",
+    "domesticated": true,
+    "origin": "Wereldwijd"
+  },
+  {
+    "id": "ANIMAL-002",
+    "species": "Kip",
+    "latinName": "Gallus gallus domesticus",
+    "domesticated": true,
+    "origin": "Zuid-Azië"
+  },
+  {
+    "id": "ANIMAL-003",
+    "species": "Varken",
+    "latinName": "Sus scrofa domesticus",
+    "domesticated": true,
+    "origin": "Eurazië"
+  },
+  {
+    "id": "ANIMAL-004",
+    "species": "Lam",
+    "latinName": "Ovis aries",
+    "domesticated": true,
+    "origin": "Midden-Oosten"
+  },
+  {
+    "id": "ANIMAL-005",
+    "species": "Eend",
+    "latinName": "Anas platyrhynchos domesticus",
+    "domesticated": true,
+    "origin": "China"
+  }
+]
