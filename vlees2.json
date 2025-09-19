@@ -3,6 +3,8 @@
     "id": "ANIMAL-001",
     "species": "Rund",
     "latinName": "Bos taurus",
+    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/Rund.jpg",
+
     "domesticated": true,
     "origin": "Wereldwijd"
   },
@@ -10,6 +12,7 @@
     "id": "ANIMAL-002",
     "species": "Kip",
     "latinName": "Gallus gallus domesticus",
+    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/Kip.jpg",
     "domesticated": true,
     "origin": "Zuid-Azië"
   },
@@ -17,6 +20,7 @@
     "id": "ANIMAL-003",
     "species": "Varken",
     "latinName": "Sus scrofa domesticus",
+    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/Varkan.jpg",
     "domesticated": true,
     "origin": "Eurazië"
   },
@@ -24,6 +28,7 @@
     "id": "ANIMAL-004",
     "species": "Lam",
     "latinName": "Ovis aries",
+    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/Lam.jpg",
     "domesticated": true,
     "origin": "Midden-Oosten"
   },
@@ -31,7 +36,9 @@
     "id": "ANIMAL-005",
     "species": "Eend",
     "latinName": "Anas platyrhynchos domesticus",
+    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/Eend.jpg",
     "domesticated": true,
     "origin": "China"
   }
 ]
+
