@@ -90,7 +90,7 @@
     "age": 1,
     "isActive": false,
     "productionDate": "2024-01-30",
-    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/Biefstyk-Tartaar.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/Biefstuk-Tartaar.jpg",
     "category": "Beef",
     "tags": ["Rauw", "Gourmet", "Frans"],
     "animalId": "ANIMAL-001"
@@ -120,6 +120,7 @@
     "animalId": "ANIMAL-003"
   }
 ]
+
 
 
 
