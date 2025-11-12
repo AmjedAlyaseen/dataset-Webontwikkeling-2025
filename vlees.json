@@ -18,7 +18,7 @@
     "age": 1,
     "isActive": true,
     "productionDate": "2024-02-10",
-    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/kipfilet.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/Kipfilet.jpg",
     "category": "Poultry",
     "tags": ["Mager", "Gezond", "Veelzijdig"],
     "animalId": "ANIMAL-002"
@@ -120,6 +120,7 @@
     "animalId": "ANIMAL-003"
   }
 ]
+
 
 
 
