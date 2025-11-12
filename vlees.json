@@ -30,7 +30,7 @@
     "age": 3,
     "isActive": false,
     "productionDate": "2022-11-05",
-    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/varkanshaasje.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/Varkanshaasje.jpg",
     "category": "Pork",
     "tags": ["Mals", "Oven", "Feest"],
     "animalId": "ANIMAL-003"
@@ -42,7 +42,7 @@
     "age": 2,
     "isActive": true,
     "productionDate": "2023-05-20",
-    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/lamskoteket.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/AmjedAlyaseen/dataset-Webontwikkeling-2025/refs/heads/main/images/Lamskoteket.jpg",
     "category": "Lamb",
     "tags": ["Mediterraan", "Grill", "Speciaal"],
     "animalId": "ANIMAL-004"
@@ -120,4 +120,5 @@
     "animalId": "ANIMAL-003"
   }
 ]
+
 
